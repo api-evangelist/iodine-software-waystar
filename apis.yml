@@ -36,6 +36,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://iodinesoftware.com/', status: 301, note: 'declared website redirects to https://www.waystar.com/ — a different registrable domain (iodinesoftware.com -> waystar.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://s45903.pcdn.co/wp-content/uploads/2020/12/share-homepage.png
 x-type: company
 x-source: vc-portfolio
